@@ -3,3 +3,4 @@
 功能较为简单。
 
 主要依赖两个库[js-xlsx](https://github.com/SheetJS/js-xlsx)和[FileSaver.js](https://github.com/eligrey/FileSaver.js/)。前者用于excel数据处理，而后者用于文件保存。
+直接查看请点击[https://scq000.github.io/jsToExcel/index.html](https://scq000.github.io/jsToExcel/index.html)
